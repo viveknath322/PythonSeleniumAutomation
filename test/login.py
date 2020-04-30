@@ -29,7 +29,7 @@ class LoginTest(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(output='I:/python_workspace/letskodeit/orange2/reports'))
+    unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(output='I:/python_workspace/letskodeit/orange2/reports1'))
 
 
 
